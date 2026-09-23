@@ -111,6 +111,7 @@ delay_ms(50);
 ```
 
 # OUTPUT:
+
 <img width="403" height="569" alt="image" src="https://github.com/user-attachments/assets/7667b89e-b415-4c1f-a87d-3cd915284379" />
 
 # RESULT:
